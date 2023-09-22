@@ -1,0 +1,4 @@
+﻿  a.cpp
+C:\Users\roman\Desktop\Новая папка\a\a\a.cpp(52,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\roman\Desktop\Новая папка\a\a\a.cpp(35,6): warning C4101: inpNum: неиспользованная локальная переменная
+  a.vcxproj -> C:\Users\roman\Desktop\Новая папка\a\x64\Debug\a.exe
